@@ -1,0 +1,35 @@
+[
+{
+    "fields": {
+        "price": "699.99",
+        "mfg": "Burton",
+        "name": "Custom Flying V Snowboard",
+        "image": "http://c2.staticflickr.com/6/5688/20854841528_5b9f2c8562_n.jpg",
+        "desc": "Since its humble beginnings, innovation has defined the Burton Custom series and set it apart as the most popular, versatile, and mimicked board in snowboarding. These days, the one-board answer to all terrain adds exclusive ingredients like Carbon Highlights and Squeezebox core profiling to the mix for drastic weight-savings, crisper pop and, and deluxe handling to pilot through the mountain’s mixed bag. The precision and stability of camber is the top choice for pros like Mikkel Bang, while Flying V™ combines camber’s power with the relaxed float of rocker for the best of both worlds."
+    },
+    "model": "core.product",
+    "pk": 1
+},
+{
+    "fields": {
+        "price": "220.00",
+        "mfg": "Westbeach",
+        "name": "METHOD JACKET",
+        "image": "http://c2.staticflickr.com/6/5794/22738929957_c184af23fb_n.jpg",
+        "desc": "Classic fit, Insulated, 5k/5k fabric tech, Critically seam sealed, Fixed powder skirt, Goggle pocket YKK VislonTM zip to centre front."
+    },
+    "model": "core.product",
+    "pk": 2
+},
+{
+    "fields": {
+        "price": "149.00",
+        "mfg": "Marc Jacobs",
+        "name": "Dancing Shoes",
+        "image": "http://static.flickr.com/21/30060988_0ca1d313fa.jpg",
+        "desc": "This is a pair of dancing shoes by Marc Jacobs. They are made of leather and have a metallic shine. Michael Jackson would've loved these shoes."
+    },
+    "model": "core.product",
+    "pk": 3
+}
+]
